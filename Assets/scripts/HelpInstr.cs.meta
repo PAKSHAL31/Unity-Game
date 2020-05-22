@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 73316abfadf08ac458e714f8f3b5d1fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scroll: {instanceID: 0}
+  - info: {instanceID: 0}
+  - ButtonX: {instanceID: 0}
+  - Buttonback: {instanceID: 0}
+  - Buttongb: {instanceID: 0}
+  - Buttonbb: {instanceID: 0}
+  - Buttonbv: {instanceID: 0}
+  - Buttongate: {instanceID: 0}
+  - Buttoncoin: {instanceID: 0}
+  - Buttonstone: {instanceID: 0}
+  - Buttonhport: {instanceID: 0}
+  - Buttonvport: {instanceID: 0}
+  - infotext: {instanceID: 0}
+  - p1: {fileID: 21300000, guid: bf1d80d4d64362c4e92a386c37aa856c, type: 3}
+  - p2: {instanceID: 0}
+  - p3: {instanceID: 0}
+  - gate: {instanceID: 0}
+  - coin: {instanceID: 0}
+  - stone: {instanceID: 0}
+  - hport: {instanceID: 0}
+  - vport: {instanceID: 0}
+  - img: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
